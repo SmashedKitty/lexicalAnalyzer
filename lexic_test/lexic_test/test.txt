@@ -1,0 +1,14 @@
+procedure example ;
+begin
+	var x, y : integer;
+	var z : integer ;
+	
+	x := 10 ;
+	y := x + 5 ;
+
+	case y of
+		5 : x := 1 ;
+		10 : x := 2 ;
+		15 : x := 3 ;
+	end ;
+end

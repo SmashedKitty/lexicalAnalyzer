@@ -1,0 +1,17 @@
+OPERATOR | + | 43
+CONST | 15 | 196
+CONST | 2 | 50
+CONST | 3 | 51
+CONST | 5 | 106
+OPERATOR | := | 116
+DELIMITER | ; | 236
+KEYWORD | begin | 98
+KEYWORD | case | 99
+KEYWORD | end | 202
+KEYWORD | integer | 210
+KEYWORD | of | 111
+KEYWORD | procedure | 112
+KEYWORD | var | 236
+IDENTIFIER | x | 240
+IDENTIFIER | y | 242
+IDENTIFIER | z | 122
